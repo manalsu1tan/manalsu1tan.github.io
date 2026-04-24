@@ -28,14 +28,14 @@ export default function App() {
         <h2 id="interests">Interests </h2>
         <h3>Career Interests</h3>
         <p>
-          I like to think about behavior and the second-order effects of behavior. My professional interests include behavioral economics, human-computer interaction, 
+          I like to think about behavior at both the individual and systemic level. My professional interests include behavioral economics, human-computer interaction, 
           human-AI interaction, neurosymbolic AI, ML systems, untangling messy data, AI alignment, and low level development.
         </p>
 
         <h3>Leisure Interests</h3>
         <p>
           Outside of work, I enjoy photography, scientifically-backed recipe development, archive fashion, 
-          interior design, failing upwards in snowboarding, keeping up with policy and governance, and reading about postmodern philosophy and social and economic systems.
+          interior design, failing upwards in snowboarding, keeping up with policy and governance, and reading about postmodern philosophy, social, and economic systems.
         </p>
       </section>
 
