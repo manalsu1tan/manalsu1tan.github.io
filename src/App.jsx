@@ -1,9 +1,9 @@
 import React from "react";
 
 const links = [
-  { label: "Kernel Programming", href: "#", meta: "Project" },
-  { label: "Hierarchical Memory for Generative Agents", href: "#", meta: "Project" },
-  { label: "Rust Compiler", href: "#", meta: "Notes" }
+  { label: "Kernel Programming", href: "#", meta: "Git" },
+  { label: "Hierarchical Memory for Generative Agents", href: "https://github.com/manalsu1tan/idg_proj", meta: "Git" },
+  { label: "Rust Compiler", href: "https://github.com/manalsu1tan/rust_compiler", meta: "Git" }
 ];
 
 export default function App() {
