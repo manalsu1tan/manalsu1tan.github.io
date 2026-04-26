@@ -1,9 +1,9 @@
 import React from "react";
 
 const links = [
-  { label: "Kernel Programming", href: "#", meta: "Git" },
+   /* { label: "Kernel Programming", href: "#", meta: "Git" }, */ 
   { label: "Hierarchical Memory for Generative Agents", href: "https://github.com/manalsu1tan/idg_proj", meta: "Git" },
-  { label: "Rust Compiler", href: "https://github.com/manalsu1tan/rust_compiler", meta: "Git" }
+   /* { label: "Rust Compiler", href: "#", meta: "WIP" } */
 ];
 
 export default function App() {
@@ -19,8 +19,8 @@ export default function App() {
         <h2 id="about-title">About</h2>
         <p>
           Soon to be graduate from Caltech with a B.S. in Computer Science and Philosophy 
-          (isn't it funny they give you a B.S. in Philosophy?). Looking for work I can be obsessed with in a passionate and fun environment,
-          and product ownership in development (think zero-to-one). Looking for MLE, applied research and/or FDE roles. 
+          (isn't it funny they give you a B.S. in Philosophy?). Looking for work I can be obsessed with in a high-stakes and fun environment,
+          and product ownership in development. Looking for MLE, applied research and/or FDE roles. 
         </p>
 
       </section>
@@ -59,7 +59,7 @@ export default function App() {
       </p>
       <h3>GWU x Caltech </h3>
       <p className="role">Summer Undergradulate Research Fellow (Summer 2023 and 2024)</p>
-      <p>Developed a CLIP-based computer vision retrieval system to match text descriptions of hotel rooms to likely image results, trained on a TraffickCam subset spanning 200 hotels. Published first-author research on real-world text-based image retrieval, presented at IEEE AIPR and Caltech Seminar Day, and continued the work through Caltech SURF fellowships in 2023 and 2024.</p>
+      <p>Developed a CLIP-based computer vision retrieval system to match text descriptions of hotel rooms to likely image results. Published first-author research on real-world text-based image retrieval, presented at IEEE AIPR and Caltech Seminar Day, and continued the work through Caltech SURF fellowships in 2023 and 2024.</p>
       </section>
       <section aria-labelledby="work-title" className="block">
       <h2 id="work-title">Selected work</h2>
